@@ -1,2 +1,2 @@
-Jadi kita ingin membuat sebuah mockup tentang UMKM, yang didalamnya memiliki fitur : informasi produk, profil toko, dan pemesanan secara online
-untuk produk sendiri kami menjual sebuah produk suplement herbal seperti madu dan habbatussauda
+Jadi kita ingin membuat sebuah mockup tentang UMKM dimana web tersebut bertujuan untuk membantu memasarkan produk dari sebuah toko agar menambah profit penjualan dimasa pandemi ini, yang didalamnya memiliki fitur : informasi produk, profil toko, dan pemesanan secara online
+untuk produk yang dijual adalah sebuah produk suplement herbal seperti madu dan habbatussauda
