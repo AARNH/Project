@@ -1,1 +1,2 @@
-Jadi kita ingin membuat sebuah mockup tentang UMKM, yang didalamnya atau fiturnya berisi informasi tentang prosuk, hasil penjualan, harga barang, dan lainnya.
+Jadi kita ingin membuat sebuah mockup tentang UMKM, yang didalamnya memiliki fitur : informasi produk, profil toko, dan pemesanan secara online
+untuk produk sendiri kami menjual sebuah produk suplement herbal seperti madu dan habbatussauda
