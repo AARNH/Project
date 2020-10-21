@@ -1,29 +1,48 @@
-*{
+*
+{
     margin: 0;
     padding: 0;
 }
-body 
+
+body
 {
-    background-color: white;
+    
 }
-.atas
+
+.gambar1
 {
+    background-image: url('backgroundatas.jpg');
+}
+
+.sabda
+{
+    text-align: right;
+    background-image: url('backgroundatas.jpg');
+}
+
+.judul
+{
+    text-align: left;
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.pendahuluan
+{
+    text-align: left;
     border: 2px solid black;
-    margin: 15px;
+    margin: 20px;
 }
-.border
+
+#pendahuluan1
 {
-    font-size: 50px;
+    background-color: pink;
 }
-#atas1
+
+#pendahuluan2
 {
-    background-color: aqua;
-}
-#atas2
-{
-    background-color: red;
-}
-#atas3
-{
-    background-color: brown;
+    background-color: pink;
 }
